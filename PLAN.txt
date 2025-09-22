@@ -1,0 +1,7 @@
+PLAN
+#editer fonksiyonlarını yap 
+#arayüzü tasarla
+# arayüzde tıkladığın şeylerin belli listelere eklenmesini yap
+"""arayüz için not  full formunu yazdıkalrımda seçtiklerimi bir daha  seçebilecem"""
+#o eklenen listeleri  importla başka yerden çek 
+# sonra o fonksiyonları seçilmiş kelimelerle csv dosyasında column zxart zurt belirterek çalıştır
